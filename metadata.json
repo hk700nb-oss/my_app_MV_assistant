@@ -1,0 +1,8 @@
+{
+  "name": "AIGC MV Creative Assistant",
+  "description": "A professional creative assistant for evaluating AIGC-generated music videos across artistic and technical dimensions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
